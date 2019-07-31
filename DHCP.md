@@ -189,3 +189,6 @@ dchp snooping trusted
 DHCP 接口 DNS 网关
 DHCP 服务器的IP地址租期默认是多久？ 
 1天
+
+`<SW2>display port vlan active`
+
